@@ -7,7 +7,9 @@
   
 ### BEGAN
 - [BEGAN](BEGAN/BEGAN_Example_dim64_gluon.ipynb)
-  
+
+###relational network
+
 
 
 
