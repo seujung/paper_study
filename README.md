@@ -7,8 +7,9 @@
 
 ## Style Transfer
 #### Neural Style Transfer
-- [neural style transfer](neural_style_transfer/style_transfer_vgg19_gluon.ipynb)
-  - https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+- [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+- [code](neural_style_transfer/style_transfer_vgg19_gluon.ipynb)
+
   
 
 
