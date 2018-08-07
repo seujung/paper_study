@@ -15,6 +15,8 @@
 
 ## VQA
 #### relational network
+- [paper](https://arxiv.org/pdf/1706.01427.pdf)
+- [code](https://github.com/seujung/relational-network-gluon)
 
 
 ## meta learning
