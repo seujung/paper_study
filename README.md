@@ -46,6 +46,10 @@
 - [paper](https://arxiv.org/pdf/1609.03499.pdf)
 - [code](https://github.com/seujung/WaveNet-gluon)
 
+#### Deep Voice 3
+- [paper](https://arxiv.org/pdf/1710.07654.pdf)
+- [code](..)
+
 
 
 
