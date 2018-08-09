@@ -29,6 +29,8 @@
 
 ## Wav data
 #### WaveNet
+- [paper](https://arxiv.org/pdf/1609.03499.pdf)
+- [code](https://github.com/seujung/WaveNet-gluon)
 
 
 
