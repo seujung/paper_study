@@ -37,7 +37,7 @@
 - [paper](https://openreview.net/pdf?id=B1DmUzWAW)
 - [code](..)
 
-#### path-net (working)
+#### PathNet(working)
 - [paper](https://arxiv.org/pdf/1701.08734.pdf)
 - [code](..)
 
