@@ -1,7 +1,7 @@
 # Deep Learning Study with Gluon
 
 ## GAN
-#### BEGAN
+#### BEGAN :ok:
 - [paper](https://arxiv.org/pdf/1703.10717.pdf)
 - [code](BEGAN/BEGAN_Example_dim64_gluon.ipynb)
 
@@ -10,7 +10,7 @@
 - [code](..)
 
 ## Style Transfer
-#### Neural Style Transfer
+#### Neural Style Transfer :ok:
 - [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 - [code](neural_style_transfer/style_transfer_vgg19_gluon.ipynb)
 
@@ -23,7 +23,7 @@
 
 
 ## VQA
-#### relational network
+#### relational network :ok:
 - [paper](https://arxiv.org/pdf/1706.01427.pdf)
 - [code](https://github.com/seujung/relational-network-gluon)
 
@@ -42,7 +42,7 @@
 - [code](..)
 
 ## Wav data
-#### WaveNet
+#### WaveNet :ok:
 - [paper](https://arxiv.org/pdf/1609.03499.pdf)
 - [code](https://github.com/seujung/WaveNet-gluon)
 
