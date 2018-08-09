@@ -2,8 +2,12 @@
 
 ## GAN
 #### BEGAN
-- [BEGAN](BEGAN/BEGAN_Example_dim64_gluon.ipynb)
+- [paper](https://arxiv.org/pdf/1703.10717.pdf)
+- [code](BEGAN/BEGAN_Example_dim64_gluon.ipynb)
 
+#### SA-GAN
+- [paper](https://arxiv.org/pdf/1805.08318.pdf)
+- [code](..)
 
 ## Style Transfer
 #### Neural Style Transfer
