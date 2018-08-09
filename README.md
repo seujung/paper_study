@@ -5,7 +5,7 @@
 - [paper](https://arxiv.org/pdf/1703.10717.pdf)
 - [code](BEGAN/BEGAN_Example_dim64_gluon.ipynb)
 
-#### SA-GAN
+#### SA-GAN (working)
 - [paper](https://arxiv.org/pdf/1805.08318.pdf)
 - [code](..)
 
@@ -46,7 +46,7 @@
 - [paper](https://arxiv.org/pdf/1609.03499.pdf)
 - [code](https://github.com/seujung/WaveNet-gluon)
 
-#### Deep Voice 3
+#### Deep Voice 3 (working)
 - [paper](https://arxiv.org/pdf/1710.07654.pdf)
 - [code](..)
 
