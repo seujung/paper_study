@@ -33,7 +33,7 @@
 - [paper](https://arxiv.org/pdf/1606.04080.pdf)
 - [code](..)
 
-#### SNAIL :construction:
+#### SNAIL :ok:
 - [paper](https://openreview.net/pdf?id=B1DmUzWAW)
 - [code](https://github.com/seujung/SNAIL-gluon.git)
 
