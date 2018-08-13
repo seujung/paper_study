@@ -37,9 +37,9 @@
 - [paper](https://openreview.net/pdf?id=B1DmUzWAW)
 - [code](..)
 
-#### PathNet :construction:
+#### PathNet :ok:
 - [paper](https://arxiv.org/pdf/1701.08734.pdf)
-- [code](..)
+- [code](neural_style_transfer/pathnet_MNIST_example_apy_2problem.ipynb)
 
 ## Wav data
 #### WaveNet :ok:
