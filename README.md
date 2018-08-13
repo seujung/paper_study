@@ -35,7 +35,7 @@
 
 #### SNAIL :construction:
 - [paper](https://openreview.net/pdf?id=B1DmUzWAW)
-- [code](..)
+- [code](https://github.com/seujung/SNAIL-gluon.git)
 
 #### PathNet :ok:
 - [paper](https://arxiv.org/pdf/1701.08734.pdf)
