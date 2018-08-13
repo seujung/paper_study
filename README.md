@@ -39,7 +39,7 @@
 
 #### PathNet :ok:
 - [paper](https://arxiv.org/pdf/1701.08734.pdf)
-- [code](neural_style_transfer/pathnet_MNIST_example_apy_2problem.ipynb)
+- [code](pathnet/pathnet_MNIST_example_apy_2problem.ipynb)
 
 ## Wav data
 #### WaveNet :ok:
