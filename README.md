@@ -9,9 +9,6 @@
 - [paper](https://arxiv.org/pdf/1805.08318.pdf)
 - [code](..)
 
-#### CartoonGAN :construction:
-- [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
-- [code](..)
 
 ## Style Transfer
 #### Neural Style Transfer :ok:
@@ -25,6 +22,7 @@
 #### cartoonGAN :construction:
 - [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 - [code](..)
+
 
   
 
