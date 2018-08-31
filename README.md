@@ -22,6 +22,10 @@
 - [paper](https://arxiv.org/pdf/1705.08086.pdf)
 - [code](..)
 
+#### cartoonGAN :construction:
+- [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+- [code](..)
+
   
 
 
